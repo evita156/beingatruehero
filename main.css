@@ -285,7 +285,7 @@ div.leadershipvideo>iframe{
 	height: 60%;
 }
 
-div.footer{
+div.footer {
 	position: relative;
 	top: 35vw;
 	margin: 3vw;
@@ -303,12 +303,16 @@ div.footer{
 	margin: 0 4vw 0 0;
 }
 
-.thebooksub{
+.thebooksub {
 	display: block;
 	vertical-align: text-top;
 	text-align: justify;
 	width: 100%;
 }
+
+div.thebooksub>h4 {
+    text-align: center;
+} 
 
 #reviewer {
 	font-size: 1.2vw;
@@ -333,3 +337,20 @@ div.footer{
     display: table;
     clear: both;
 }
+
+form {
+    transition: all 4s ease-in-out;
+}
+
+.form-control {
+    width: 600px;
+    background: transparent;
+    border: none;
+    outline: none;
+    border-bottom: 1px solid gray;
+    color
+}
+
+
+
+
