@@ -194,7 +194,7 @@ div.nav ul li {
  	padding: 0;
  	text-align: center;
  	font-family: 'Play', sans-serif;
-	font-size: 2vw;
+	font-size: 1.8vw;
 	color: navy;
 	background: white;
 	text-decoration: none;
@@ -235,6 +235,11 @@ div.subholder{
     height: auto;
     vertical-align: top;
     text-align: justify;
+}
+
+div.subholder>p{
+	font-size: 1.2vw;
+	font-family: 'Arial', sans-serif;
 }
 
 div.video{
@@ -386,5 +391,36 @@ div#freetalks {
 }
 
 div#freetalks>h4 {
+	text-align: center;
+}
+
+div#pdfcontainer {
+	padding: 1vw;
+}
+
+div#samplechapter1 {
+    float: left;
+    width: 50%;
+}
+
+div#samplechapter2 {
+}
+
+div#samplechapter1 embed{
+    width: 95%;
+    height: 57vw;
+}
+
+div#samplechapter2 embed{
+    width: 45%;
+    height: 54vw;
+}
+
+div#samplechapter>h4 {
+	text-align: center;
+}
+
+div#pdfcontainer {
+	font-size: 1.5vw;
 	text-align: center;
 }
