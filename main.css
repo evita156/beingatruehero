@@ -377,5 +377,14 @@ form .submit:hover {
     cursor: pointer;
 }
 
+.contact-info {
+	font-size: 16px;
+}
 
+div#freetalks {
+	text-align: center;
+}
 
+div#freetalks>h4 {
+	text-align: center;
+}
