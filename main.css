@@ -319,6 +319,10 @@ div.thebooksub>h4 {
     text-align: center;
 } 
 
+div.thebooksub>ul>li {
+	text-align: center;
+}
+
 #reviewer {
 	font-size: 1.2vw;
 	font-family: 'Arial', sans-serif;
