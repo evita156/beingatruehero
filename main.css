@@ -35,10 +35,10 @@
 	left: 66vw;
   }
   div.holder>div.subholder>h4{
-	font-size: 2.5vw;
+	font-size: 20px;
   }
   div.subholder>ul>li{
-	font-size: 2.5vw;
+	font-size: 18px;
   }
   .column {
         width: 100%;
@@ -58,10 +58,10 @@
   	top: 37vw;
   }
   div.holder>div.subholder>h4{
-	font-size: 2vw;
+	font-size: 20px;
   }
   div.subholder>ul>li{
-	font-size: 1.5vw;
+	font-size: 18px;
   }
   .column {
         width: 100%;
@@ -212,7 +212,7 @@ div.nav ul{
 div.holder h4{
 	text-align: left;
 	background: white;
-	font-size: 1.5vw;
+	font-size: 20px;
 	font-family: 'Play', sans-serif;
 	margin-top: 0;
 	color: black;
@@ -221,7 +221,7 @@ div.holder h4{
 div.holder ul{
 	margin: 0;
 	padding: 0;
-	font-size: 1.3vw;
+	font-size: 18px;
 	font-family: 'Arial', sans-serif;
 }
 
@@ -238,7 +238,7 @@ div.subholder{
 }
 
 div.subholder>p{
-	font-size: 1.2vw;
+	font-size: 18px;
 	font-family: 'Arial', sans-serif;
 }
 
@@ -326,7 +326,7 @@ div.thebooksub>ul>li {
 }
 
 #reviewer {
-	font-size: 1.2vw;
+	font-size: 16px;
 	font-family: 'Arial', sans-serif;
 	color: grey;
 }
@@ -353,12 +353,22 @@ div.thebooksub>ul>li {
     text-align: center;
 }
 
+#contact-info>li {
+	text-align: center;
+	font-size: 16px;
+}
+
+#contact-info>li:nth-child(3) {
+	font-size: 20px;
+}
+
 form {
     text-align: center;
 }
 
 .form-control {
-    width: 600px;
+    width: 80vw;
+    max-width: 800px;
     background: transparent;
     border: none;
     outline: none;
@@ -386,10 +396,6 @@ form .submit {
 form .submit:hover {
     background-color: navy;
     cursor: pointer;
-}
-
-.contact-info {
-	font-size: 16px;
 }
 
 div#freetalks {
@@ -427,6 +433,6 @@ div#samplechapter>h4 {
 }
 
 div#pdfcontainer {
-	font-size: 1.5vw;
+	font-size: 18px;
 	text-align: center;
 }
