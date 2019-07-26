@@ -423,17 +423,12 @@ div#pdfcontainer {
 	padding: 1vw;
 }
 
-div#pdfcontainer {
-	padding: 1vw;
-}
-
 div#samplechapter1 {
     float: left;
     width: 50%;
 }
 
 div#samplechapter2 {
-	margin-left: 2vw;
 }
 
 div#pdfcontainer a{
