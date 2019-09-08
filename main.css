@@ -453,3 +453,31 @@ div#pdfcontainer {
 	font-size: 18px;
 	text-align: center;
 }
+
+div#mp3container {
+	padding: 1vw;
+}
+div#sampleaudiochapter1 {
+    float: left;
+    width: 50%;
+}
+
+div#sampleaudiochapter2 {
+}
+
+div#mp3container a{
+	margin: 0 2vw 0 2vw;
+}
+
+div#sampleaudiochapter1 audio{
+    width: 95%;
+}
+
+div#sampleaudiochapter2 audio{
+    width: 45%;
+}
+
+div#mp3container {
+	font-size: 18px;
+	text-align: center;
+}
