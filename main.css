@@ -481,3 +481,11 @@ div#mp3container {
 	font-size: 18px;
 	text-align: center;
 }
+
+div#freetalks audio{
+    width: 60%;
+}
+
+div#radioepisodes audio{
+    width: 50%;
+}
