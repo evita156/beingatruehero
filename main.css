@@ -186,7 +186,7 @@ div.nav ul li a:visited{
 
 div.nav ul li a:hover{
 		color: navy;
-		font-weight: bold;
+		font-style: italic;
 		text-decoration: none;
 }
 
@@ -203,7 +203,7 @@ div.nav ul li {
  	padding: 0;
  	text-align: center;
  	font-family: 'Play', sans-serif;
-	font-size: 1.9vw;
+	font-size: 1.7vw;
 	color: navy;
 	background: white;
 	text-decoration: none;
