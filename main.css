@@ -8,7 +8,7 @@
   	background-position: center 39px;
   }
   body div.nav>ul>li {
-	font-size: 4vw;
+	font-size: 3.3vw;
   }
   .column {
     width: 100%;
@@ -25,7 +25,7 @@
 
   }
   body div.nav>ul>li {
-	font-size: 4vw;
+	font-size: 3.3vw;
  }
   div.holder{
   	top: 40vw;
@@ -64,7 +64,7 @@
   	top: 38vw;
   }
   body div.nav>ul>li {
-	font-size: 4vw;
+	font-size: 3.3vw;
   }
   div.holder>div.subholder>h4{
 	font-size: 20px;
