@@ -198,7 +198,7 @@ div.nav ul li a{
 
 div.nav ul li {
 	display: inline-block;
- 	width: 15%;
+ 	width: 13%;
  	margin: 0;
  	padding: 0;
  	text-align: center;
@@ -331,6 +331,18 @@ div.thebooksub>h4 {
 
 div.thebooksub>ul>li {
 	text-align: center;
+	font-size: 18px;
+}
+
+.speakingsub {
+	display: block;
+	vertical-align: text-top;
+	text-align: justify;
+	width: 100%;
+}
+
+div.speakingsub>ul>li {
+	text-align: left;
 	font-size: 18px;
 }
 
@@ -488,4 +500,17 @@ div#freetalks audio{
 
 div#radioepisodes audio{
     width: 50%;
+}
+
+#img1 {
+	width: 40%;
+	margin: 0 50px 0 0;
+    height: auto;
+}
+
+#img2 {
+	width: 100%;
+	margin: 0 0 0 0;
+	padding-top: 2vw;
+    height: 20vw;
 }
