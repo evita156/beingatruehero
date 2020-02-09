@@ -251,6 +251,48 @@ div.subholder>p{
 	font-family: 'Arial', sans-serif;
 }
 
+div.categories{
+	display: block;
+    height: auto;
+    vertical-align: top;
+    text-align: justify;
+}
+
+div.categories ul li:active{
+		color: navy;
+		font-weight: bold;
+}
+
+div.categories ul li a:visited{
+		color: steelBlue;
+		text-decoration: none;
+}
+
+div.categories ul li a:hover{
+		color: navy;
+		font-style: italic;
+		text-decoration: none;
+}
+
+div.categories ul li a{
+		color: steelBlue;
+		font-weight: normal;
+		text-decoration: none;
+}
+
+div.categories ul li {
+	display: inline-block;
+ 	width: 13%;
+ 	margin: 0;
+ 	padding: 0;
+ 	text-align: left;
+ 	font-family: 'Play', sans-serif;
+	font-size: 1.7vw;
+	color: navy;
+	background: white;
+	text-decoration: none;
+}
+
 div.video{
 	position:relative;
 	padding-bottom:56.25%;
