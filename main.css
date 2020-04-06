@@ -253,6 +253,7 @@ div.subholder{
     height: auto;
     vertical-align: top;
     text-align: justify;
+    overflow: auto;
 }
 
 div.subholder>p{
@@ -362,6 +363,13 @@ div.footer {
 }
 
 #imgbookcover {
+	height: 30vw;
+	width: 20vw;
+	border: 2px solid #033F71;
+	margin: 0 4vw 0 0;
+}
+
+#imgdisastersbookcover {
 	height: 30vw;
 	width: 20vw;
 	border: 2px solid #033F71;
