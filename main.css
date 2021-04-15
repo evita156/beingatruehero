@@ -207,7 +207,7 @@ div.nav ul li a{
 
 div.nav ul li {
 	display: inline-block;
- 	width: 13%;
+ 	width: 12%;
  	margin: 0;
  	padding: 0;
  	text-align: center;
@@ -374,6 +374,10 @@ div.footer {
 	width: 20vw;
 	border: 2px solid #033F71;
 	margin: 0 4vw 0 0;
+}
+
+#workshop1,#workshop2,#workshop3 {
+	color: red;
 }
 
 .thebooksub {
