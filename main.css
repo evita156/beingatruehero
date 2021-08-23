@@ -577,3 +577,7 @@ div#radioepisodes audio{
 	padding-top: 2vw;
     height: 30vw;
 }
+
+.alert{
+	color: red;
+}
